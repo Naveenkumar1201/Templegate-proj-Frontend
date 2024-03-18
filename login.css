@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 1200px;
+    height: 600px;
+    margin-top: 5%;
+    justify-content: center;
+    
+
+}
+.login{
+    width: 1200px;
+    height: 600px;
+    background-color:transparent;
+    margin-left: 150px;
+    position: absolute;
+    top: 50px;
+
+}
+.signin{
+    margin-left: 230px;
+    margin-top: 30px;
+    font-weight: 900;
+}
+
